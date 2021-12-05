@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MyFirstApp1</string>
+    <string name="app_name" translatable="false">My First Application</string>
+    <string name="hello">Hello!</string>
+    <string name="Contin">Contin</string>
 </resources>
